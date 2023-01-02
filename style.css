@@ -1,0 +1,31 @@
+hr {
+    height: 2px;
+    background: black;
+}
+#bar1, #bar2, #bar3 {
+    width: 30px;
+    height: 4px;
+    background-color: black;
+    margin: 6px 0;
+    transition: 0.4s;
+  }
+#head{
+    padding-bottom: 10px;
+}
+#menu{
+    margin-top: 100px;
+    background-color: lightgray;
+    border: 0px;
+}
+#search{
+    font-size: 30px;
+}
+#browse{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+  
